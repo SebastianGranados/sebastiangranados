@@ -69,17 +69,15 @@
 
 ### 🚀 Featured Projects
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
   <a href="https://reactheroes.sebastiangranadosdev.com" target="_blank" rel="noreferrer noopener">
-    <img src="./assets/react_heroes.avif" alt="React Heroes" width="300" style="border-radius: 8px;" />
+    <img align="left" src="./assets/react_heroes.avif" alt="React Heroes" width="300" style="border-radius: 8px;" />
   </a>
 
   <div>
-    <h3><a href="https://reactheroes.sebastiangranadosdev.com" target="_blank" rel="noreferrer noopener">React Heroes</a></h3>
+    <h3 ><a href="https://reactheroes.sebastiangranadosdev.com" target="_blank" rel="noreferrer noopener">React Heroes</a></h3>
     <p>Turn-based combat game with a branching story, where your decisions impact the plot's development and endings.</p>
   </div>
 
-</div>
+<br>
 
 ---
