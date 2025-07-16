@@ -1,4 +1,8 @@
-## Hi there 👋
+##
+<p align="center">
+  <img src="https://cdn.midjourney.com/0ef75952-4daa-48b5-b173-c6fbb4a610ea/0_2.png" alt="Header" width="100">
+</p>
+
 
 <!--
 **SebastianGranados/sebastiangranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
