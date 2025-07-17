@@ -9,7 +9,7 @@
 </div>
 
 <p align="left">
-  I'm a Full Stack JavaScript Developer passionate about building robust and scalable web and mobile applications. I specialize in modern tools and frameworks like React, Astro, TypeScript, Node.js, Express, NestJS, PostgreSQL, and MySQL, among other technologies. I care about clean architecture, good developer experience, and writing maintainable code across the stack.
+  I'm a Full Stack Developer passionate about building robust and scalable web and mobile applications. I work with a wide range of modern technologies and frameworks, and I adapt easily to different stacks depending on the project needs. I value clean architecture, a great developer experience, and writing maintainable, efficient code across the stack.
 </p>
 
 <p align="left">
