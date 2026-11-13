@@ -1,83 +1,121 @@
-# Hello everyone 👨‍💻
+<h1 align="center">Sebastian Granados</h1>
 
-### 🛠️ Full Stack Developer & IoT Systems Builder
+<p align="center">
+  <b>Full Stack Developer</b> · Bogotá, Colombia<br>
+  <i>Full stack, 8+ years — from the query up. I still learn something every week.</i>
+</p>
+
+<p align="center">
+  <img src="assets/owl/home.webp" width="440" alt="An owl in a purple cap, working at a desk with a mug of coffee">
+</p>
 
 ---
 
-<div>
-  <img align="right" width="40%" src="https://portfolio.sebastiangranadosdev.com/_astro/avatar.D9ifmHge_1t959r.webp">
-</div>
+## About
 
-<p align="left">
-  I'm a Full Stack Developer passionate about building robust and scalable web and mobile applications. I work with a wide range of modern technologies and frameworks, and I adapt easily to different stacks depending on the project needs. I value clean architecture, a great developer experience, and writing maintainable, efficient code across the stack.
+Eight years building and repairing full stack products. Most of that time went into the parts
+nobody demos: auditing queries, restructuring schemas, splitting a monolith into services. Along
+the way, systems up to 80% faster and databases 60% lighter.
+
+I work from Bogotá, across the whole stack — from the Postgres index to the React component. I
+started at 15 and I am still self-taught in most of what I use, which is why I keep learning
+something every week. Some of that escapes the browser: there are a few Arduino projects on my
+desk.
+
+<p align="center">
+  <img src="assets/owl/about.webp" width="420" alt="An owl with a coffee, next to an easel with a to-do board">
 </p>
 
-<p align="left">
-  I also have experience developing IoT systems using MQTT, ESP32, and LoRa to collect and process real-time sensor data. I enjoy bridging the gap between software and hardware to build efficient, connected solutions for real-world needs.
-</p>
+## Career
 
-- 🧠 Always learning — I believe every day is a chance to grow.
-- 🏗 Currently exploring architecture, system design, and new technologies across the stack.
-- 🛠 Driven by solving real-world problems with code and creativity.
-- 🤝 Team collaborator — I help build meaningful products that create real impact.
-- 🧑‍🏫 Mentoring and supporting others who are starting their programming journey.
-- 🌐 Visit my [portfolio](https://portfolio.sebastiangranadosdev.com/) to see what I'm working on.
+| | | |
+|:--|:--|:--|
+| **2025 — present** | Epayco | Full Stack Developer |
+| **2018 — 2025** | Information Patterns | Principal Software Developer |
+| **2017** | Recaudo Bogotá | Junior Developer |
 
----
+## Stack
 
-<!--Languages and Tools Section-->
-
-### 🛠️ Tech Stack
+**Frontend**
 
 <p>
-<!-- Frontend -->
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: nowrap; margin-bottom: 12px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-</div>
-
-<!-- Backend -->
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: nowrap; margin-bottom: 12px;">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-  <a href="https://firebase.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-</div>
-
-<!-- Databases -->
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: nowrap;">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</div>
-
+  <img src="assets/stack/JavaScript.webp" width="52" alt="JavaScript">
+  <img src="assets/stack/TypeScript.webp" width="52" alt="TypeScript">
+  <img src="assets/stack/React.webp" width="52" alt="React">
+  <img src="assets/stack/Next.js.webp" width="52" alt="Next.js">
+  <img src="assets/stack/Astro.webp" width="52" alt="Astro">
+  <img src="assets/stack/React%20Native.webp" width="52" alt="React Native">
+  <img src="assets/stack/HTML.webp" width="52" alt="HTML">
+  <img src="assets/stack/CSS.webp" width="52" alt="CSS">
+  <img src="assets/stack/Tailwind%20CSS.webp" width="52" alt="Tailwind CSS">
 </p>
 
----
+**Backend**
 
-### 🚀 Featured Projects
+<p>
+  <img src="assets/stack/Node.js.webp" width="52" alt="Node.js">
+  <img src="assets/stack/NestJS.webp" width="52" alt="NestJS">
+  <img src="assets/stack/Express.webp" width="52" alt="Express">
+  <img src="assets/stack/tRPC.webp" width="52" alt="tRPC">
+  <img src="assets/stack/GraphQL.webp" width="52" alt="GraphQL">
+  <img src="assets/stack/PHP.webp" width="52" alt="PHP">
+  <img src="assets/stack/Laravel.webp" width="52" alt="Laravel">
+  <img src="assets/stack/Meteor.webp" width="52" alt="Meteor">
+  <img src="assets/stack/Python.webp" width="52" alt="Python">
+</p>
 
-  <a href="https://reactheroes.sebastiangranadosdev.com" target="_blank" rel="noreferrer noopener">
-    <img align="left" src="./assets/react_heroes.avif" alt="React Heroes" width="300" style="border-radius: 8px;" />
+**Databases**
+
+<p>
+  <img src="assets/stack/PostgreSQL.webp" width="52" alt="PostgreSQL">
+  <img src="assets/stack/MySQL.webp" width="52" alt="MySQL">
+  <img src="assets/stack/MongoDB.webp" width="52" alt="MongoDB">
+  <img src="assets/stack/Redis.webp" width="52" alt="Redis">
+  <img src="assets/stack/Supabase.webp" width="52" alt="Supabase">
+  <img src="assets/stack/Firebase.webp" width="52" alt="Firebase">
+</p>
+
+**DevOps**
+
+<p>
+  <img src="assets/stack/AWS.webp" width="52" alt="AWS">
+  <img src="assets/stack/Docker.webp" width="52" alt="Docker">
+  <img src="assets/stack/Kubernetes.webp" width="52" alt="Kubernetes">
+  <img src="assets/stack/Nginx.webp" width="52" alt="Nginx">
+  <img src="assets/stack/Linux.webp" width="52" alt="Linux">
+  <img src="assets/stack/Git.webp" width="52" alt="Git">
+  <img src="assets/stack/GitHub.webp" width="52" alt="GitHub">
+</p>
+
+**Electronics**
+
+<p>
+  <img src="assets/stack/Arduino.webp" width="52" alt="Arduino">
+  <img src="assets/stack/MQTT.webp" width="52" alt="MQTT">
+</p>
+
+## Projects
+
+<p align="center">
+  <a href="https://reactheroes.sebastiangranadosdev.com">
+    <img src="assets/react-heroes.webp" width="420" alt="React Heroes, a pixel-art castle lit in red on a dark sky">
   </a>
+</p>
 
-  <div>
-    <h3 ><a href="https://reactheroes.sebastiangranadosdev.com" target="_blank" rel="noreferrer noopener">React Heroes</a></h3>
-    <p>Turn-based combat game with a branching story, where your decisions impact the plot's development and endings.</p>
-  </div>
+**React Heroes** — 2024
 
-<br>
+Turn-based combat game with a branching story, where your decisions impact the plot's development.
 
----
+## Contact
+
+<p>
+  <a href="https://github.com/SebastianGranados"><img src="assets/social/github.webp" width="44" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sebastian-granados-dev/"><img src="assets/social/linkedin.webp" width="44" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/bowsnek/"><img src="assets/social/instagram.webp" width="44" alt="Instagram"></a>
+</p>
+
+**sebastiangranadosdev@gmail.com** · [sebastiangranadosdev.com](https://sebastiangranadosdev.com)
+
+<p align="center">
+  <img src="assets/owl/footer.webp" width="360" alt="The owl, seen from the front, at its desk">
+</p>
